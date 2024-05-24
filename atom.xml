@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-05-16T11:15:50.204Z</updated>
+  <updated>2024-05-14T08:00:19.671Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>ISCC2024</title>
-    <link href="https://www.fomal.cc/posts/65dfdaa0.html"/>
-    <id>https://www.fomal.cc/posts/65dfdaa0.html</id>
-    <published>2024-05-14T09:22:28.000Z</published>
-    <updated>2024-05-16T11:15:50.204Z</updated>
-    
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="0aa53b4aea43000ee432b36260b2c023855bf4eaf77e8724ab561bf149163743">5a7fcc64905a07ccb2980749f464b3a684b945618ade359bd3564204d4f37f21273859e6386d4fc6269a7c94079ce9326070a93f909e64fea2813bc9351b5d547ebbd2c9eaec1241d63e3709cd511ae6b3007867e53f410b96aeded2f2fbf70b37d43589ae771c1b3d8010d6573ee0106d34d4c7b46d90cd2ddf874e4fc4186b641fb94d81cfd97b0b4054c72f6f7a23e43047ca8d1514eaf266b4d0a9e000a51202c58818c690cb36c47754b71101ec49a9a1b2a82b76614720cd1ae1b77d46e6495f48dec1fddf4b94cf689a4d80b97494ec762f6e389c17d9e5ef6d6acb3c6e6a05d02a9552d90a96d5482f2ac08b4460fcf4c6942b55ec7773cf94180f76af91b1f5eb6a2c28f77c8c76476e611ed0ce5b122554f0f299131f96e16909eb137d46cc61c02e67adf3a20f45911a252f348045b2b3525c53a52ae6de5e9276ce5a0ee4fc685a1c48d256ba87f5d1827bfbe12c044f66c9fdb49345053fc1a0d8c3183fc6d530cd3ab1916b0521308ba016374ef5377137829a05c2edcc3823353d25917a80298a40626cc7eb2c209e442120ae6704a596d9d3616901e4c776a5dbd7727f7d60ee9fe88a634626ef69db39798e83fbb483a43cf8e5da78a13316dc3a975185cafcabe8145f2569e272</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">内容还没写完，需要密码才能查看！</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">ISCC2024 WP</summary>
-    
-    
-    
-    <category term="Writeup" scheme="https://www.fomal.cc/categories/Writeup/"/>
-    
-    
-    <category term="CTF" scheme="https://www.fomal.cc/tags/CTF/"/>
-    
-    <category term="Competition" scheme="https://www.fomal.cc/tags/Competition/"/>
-    
-    <category term="ISCC" scheme="https://www.fomal.cc/tags/ISCC/"/>
-    
-  </entry>
   
   <entry>
     <title>高校网络安全管理运维赛2024</title>
