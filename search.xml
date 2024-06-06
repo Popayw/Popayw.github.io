@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>CISCN2024</title>
+      <link href="/posts/f97bea14.html"/>
+      <url>/posts/f97bea14.html</url>
+      
+        <content type="html"><![CDATA[<span id="more"></span>]]></content>
+      
+      
+      <categories>
+          
+          <category> Writeup </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> CTF </tag>
+            
+            <tag> Competition </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>高校网络安全管理运维赛2024</title>
       <link href="/posts/17915e48.html"/>
       <url>/posts/17915e48.html</url>
@@ -23,14 +50,6 @@
             <tag> CTF </tag>
             
             <tag> Competition </tag>
-            
-            <tag> Web </tag>
-            
-            <tag> Reverse </tag>
-            
-            <tag> Misc </tag>
-            
-            <tag> Pwn </tag>
             
         </tags>
       
