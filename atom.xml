@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-06-07T11:01:50.288Z</updated>
+  <updated>2024-06-15T11:33:35.640Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java反序列化CC链</title>
+    <link href="https://www.fomal.cc/posts/fba70aa7.html"/>
+    <id>https://www.fomal.cc/posts/fba70aa7.html</id>
+    <published>2024-06-15T11:30:22.000Z</published>
+    <updated>2024-06-15T11:33:35.640Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="b9f721d44e319fb122b6050956e7f2f32bc2d308b0f9f9533f5321ab9ac22a41">a7ae39568c02d7a175b7104c21717a11a63972a7f633d880fdae4e3f8c21ada3</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">内容还没写完，需要密码才能查看！</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Java反序列化Commons-Collections篇</summary>
+    
+    
+    
+    <category term="Java" scheme="https://www.fomal.cc/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="https://www.fomal.cc/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java安全基础</title>
+    <link href="https://www.fomal.cc/posts/6f0aa025.html"/>
+    <id>https://www.fomal.cc/posts/6f0aa025.html</id>
+    <published>2024-06-15T11:25:51.000Z</published>
+    <updated>2024-06-15T11:33:54.168Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="b9f721d44e319fb122b6050956e7f2f32bc2d308b0f9f9533f5321ab9ac22a41">a7ae39568c02d7a175b7104c21717a11a63972a7f633d880fdae4e3f8c21ada3</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">内容还没写完，需要密码才能查看！</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Java反序列化基础</summary>
+    
+    
+    
+    <category term="Java反序列化" scheme="https://www.fomal.cc/categories/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/"/>
+    
+    
+    <category term="Java" scheme="https://www.fomal.cc/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>CISCN2024</title>
