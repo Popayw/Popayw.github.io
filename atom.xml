@@ -88,6 +88,29 @@
   </entry>
   
   <entry>
+    <title>Log4j2</title>
+    <link href="https://www.fomal.cc/posts/6cdb73.html"/>
+    <id>https://www.fomal.cc/posts/6cdb73.html</id>
+    <published>2024-03-15T12:42:09.000Z</published>
+    <updated>2024-06-15T12:44:04.853Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="2e7fae38d107ee4625e24d45b2f0e491c74a88e07b7ffccd561ec03c5375bc90">fe693106a95ef61794da4c5f123204e8d3c00f148706c6a206ff03754bd2b2aa9d815501f8412c47ad5b63048142b7d09da07c934a6c60afb063b71ef21c63d3</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">内容还没写完，需要密码才能查看！</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+    
+    
+    <summary type="html">Log4j2 漏洞复现</summary>
+    
+    
+    
+    <category term="漏洞复现" scheme="https://www.fomal.cc/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    
+    
+    <category term="Java" scheme="https://www.fomal.cc/tags/Java/"/>
+    
+    <category term="漏洞复现" scheme="https://www.fomal.cc/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Java反序列化之Fastjson</title>
     <link href="https://www.fomal.cc/posts/a8f06b6c.html"/>
     <id>https://www.fomal.cc/posts/a8f06b6c.html</id>
