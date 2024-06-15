@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.fomal.cc/posts/d87f7e0c.html</loc>
+    
+    <lastmod>2024-06-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/posts/6cdb73.html</loc>
     
     <lastmod>2024-06-15</lastmod>
@@ -164,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/bb/index.html</loc>
+    <loc>https://www.fomal.cc/personal/love/index.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -173,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/love/index.html</loc>
+    <loc>https://www.fomal.cc/personal/bb/index.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -291,13 +300,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/Fastjson/</loc>
-    <lastmod>2024-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/tags/CC%E9%93%BE/</loc>
     <lastmod>2024-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -306,6 +308,13 @@
   
   <url>
     <loc>https://www.fomal.cc/tags/Shiro/</loc>
+    <lastmod>2024-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/tags/Fastjson/</loc>
     <lastmod>2024-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -349,14 +358,14 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/Java/</loc>
+    <loc>https://www.fomal.cc/categories/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</loc>
     <lastmod>2024-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/Java%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96/</loc>
+    <loc>https://www.fomal.cc/categories/Java/</loc>
     <lastmod>2024-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
