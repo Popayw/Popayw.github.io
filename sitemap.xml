@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/gallery/index.html</loc>
+    <loc>https://www.fomal.cc/box/animation/index.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/animation/index.html</loc>
+    <loc>https://www.fomal.cc/box/gallery/index.html</loc>
     
     <lastmod>2024-05-12</lastmod>
     
@@ -307,6 +307,13 @@
   </url>
   
   <url>
+    <loc>https://www.fomal.cc/tags/Fastjson/</loc>
+    <lastmod>2024-07-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/tags/Shiro/</loc>
     <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -315,13 +322,6 @@
   
   <url>
     <loc>https://www.fomal.cc/tags/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
-    <lastmod>2024-07-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/tags/Fastjson/</loc>
     <lastmod>2024-07-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
