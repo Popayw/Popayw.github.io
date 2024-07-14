@@ -322,13 +322,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/ssrf/</loc>
-    <lastmod>2024-07-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/tags/Java/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -336,14 +329,21 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/CC%E9%93%BE/</loc>
+    <loc>https://www.fomal.cc/tags/Shiro/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/tags/Shiro/</loc>
+    <loc>https://www.fomal.cc/tags/ssrf/</loc>
+    <lastmod>2024-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/tags/CC%E9%93%BE/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,14 +401,14 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/Challenge/</loc>
+    <loc>https://www.fomal.cc/categories/Java/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/categories/Java/</loc>
+    <loc>https://www.fomal.cc/categories/Challenge/</loc>
     <lastmod>2024-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
