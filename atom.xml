@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-07-14T09:16:40.890Z</updated>
+  <updated>2024-07-15T01:08:23.637Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>HTB-Sizzle</title>
+    <link href="https://www.fomal.cc/posts/33c7d1f3.html"/>
+    <id>https://www.fomal.cc/posts/33c7d1f3.html</id>
+    <published>2024-07-15T09:19:03.000Z</published>
+    <updated>2024-07-15T01:08:23.637Z</updated>
+    
+    <content type="html"><![CDATA[<span id="more"></span><blockquote><p>靶机ip：10.10.10.103</p><p>攻击机ip：10.10.14.28</p></blockquote><h1>知识点</h1><h1>信息搜集</h1><h2 id="端口扫描">端口扫描</h2><p><code>nmap -sS -sV -sC 10.10.10.103</code></p><p><img src="https://img2023.cnblogs.com/blog/3051266/202407/3051266-20240714192941833-311799853.png" alt="image-20240714192938885"></p><p>发现有<code>ftp</code>服务、<code>DNS</code>服务、<code>http</code>服务、<code>ldap</code>服务、</p>]]></content>
+    
+    
+    <summary type="html">HackTheBox篇域渗透系列之Sizzle</summary>
+    
+    
+    
+    <category term="HackTheBox" scheme="https://www.fomal.cc/categories/HackTheBox/"/>
+    
+    
+    <category term="HTB" scheme="https://www.fomal.cc/tags/HTB/"/>
+    
+    <category term="域渗透" scheme="https://www.fomal.cc/tags/%E5%9F%9F%E6%B8%97%E9%80%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>HTB-Resolute</title>

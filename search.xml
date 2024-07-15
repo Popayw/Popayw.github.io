@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>HTB-Sizzle</title>
+      <link href="/posts/33c7d1f3.html"/>
+      <url>/posts/33c7d1f3.html</url>
+      
+        <content type="html"><![CDATA[<span id="more"></span><blockquote><p>靶机ip：10.10.10.103</p><p>攻击机ip：10.10.14.28</p></blockquote><h1>知识点</h1><h1>信息搜集</h1><h2 id="端口扫描">端口扫描</h2><p><code>nmap -sS -sV -sC 10.10.10.103</code></p><p><img src="https://img2023.cnblogs.com/blog/3051266/202407/3051266-20240714192941833-311799853.png" alt="image-20240714192938885"></p><p>发现有<code>ftp</code>服务、<code>DNS</code>服务、<code>http</code>服务、<code>ldap</code>服务、</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> HackTheBox </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> HTB </tag>
+            
+            <tag> 域渗透 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>HTB-Resolute</title>
       <link href="/posts/6134d881.html"/>
       <url>/posts/6134d881.html</url>
