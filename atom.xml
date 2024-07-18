@@ -6,7 +6,7 @@
   <link href="https://www.fomal.cc/atom.xml" rel="self"/>
   
   <link href="https://www.fomal.cc/"/>
-  <updated>2024-07-18T02:24:02.753Z</updated>
+  <updated>2024-07-18T02:35:48.820Z</updated>
   <id>https://www.fomal.cc/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.fomal.cc/posts/662d550f.html"/>
     <id>https://www.fomal.cc/posts/662d550f.html</id>
     <published>2024-07-17T07:11:31.000Z</published>
-    <updated>2024-07-18T02:24:02.753Z</updated>
+    <updated>2024-07-18T02:35:48.820Z</updated>
     
-    <content type="html"><![CDATA[<span id="more"></span><blockquote><p>靶机ip：10.10.10.52</p><p>攻击机ip：10.10.14.5</p></blockquote><h1>知识点</h1><h1>信息搜集</h1><h2 id="端口扫描">端口扫描</h2><p><code>nmap -sS -sV -sC 10.10.10.52</code></p>]]></content>
+    <content type="html"><![CDATA[<span id="more"></span><blockquote><p>靶机ip：10.10.10.52</p><p>攻击机ip：10.10.14.5</p></blockquote><h1>知识点</h1><h1>信息搜集</h1><h2 id="端口扫描">端口扫描</h2><p><code>nmap -sS -sV -sC 10.10.10.52</code></p><p><img src="https://img2023.cnblogs.com/blog/3051266/202407/3051266-20240718103545824-1204548970.png" alt="image-20240718103536916"></p>]]></content>
     
     
     <summary type="html">HackTheBox篇域渗透系列之Mantis</summary>
